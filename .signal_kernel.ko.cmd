@@ -1,0 +1,1 @@
+cmd_/home/ariel/Training/ksig/signal_kernel.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.2.0-4-common/scripts/module-common.lds --build-id  -o /home/ariel/Training/ksig/signal_kernel.ko /home/ariel/Training/ksig/signal_kernel.o /home/ariel/Training/ksig/signal_kernel.mod.o
